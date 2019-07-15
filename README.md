@@ -12,4 +12,9 @@
 
 
 ## Progress
-* 
+* Day 1 -  setup emacs, installed racket.
+
+ 
+
+## Important Links
+* [To get started](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
